@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Appointment with coded variable - With Variable local</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61ea97ce-d3c5-4be3-9dc4-62897dcf483d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca4f7c1c-7754-40df-b63f-b0cd36d74ef8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92e7d896-6dab-413e-8833-748c5997e78d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc52013f-0707-4458-bdbe-8ab427c033dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c80f9dfc-1853-405f-9fc9-1bc971ec5353</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe5d70ca-2321-4435-899f-7b3c3f38315a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>ca4f7c1c-7754-40df-b63f-b0cd36d74ef8</id>
+      <masked>false</masked>
+      <name>hospital_readmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>92e7d896-6dab-413e-8833-748c5997e78d</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'30/07/2024'</defaultValue>
+      <description></description>
+      <id>fc52013f-0707-4458-bdbe-8ab427c033dd</id>
+      <masked>false</masked>
+      <name>visit_date</name>
+   </variable>
+   <variable>
+      <defaultValue>'comment like and subscribe'</defaultValue>
+      <description></description>
+      <id>c80f9dfc-1853-405f-9fc9-1bc971ec5353</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>fe5d70ca-2321-4435-899f-7b3c3f38315a</id>
+      <masked>false</masked>
+      <name>healthcare_program</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "DF01B3A83EFDBE71872563EC88F603D4",
+  "keywordClasses": [
+    {
+      "name": "customKW.calculate",
+      "keywordMethods": [
+        {
+          "name": "penjumlahanduainput",
+          "parameters": [
+            {
+              "name": "valueA",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Integer",
+                "unresolvedClassName": "Integer",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "valueB",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Integer",
+                "unresolvedClassName": "Integer",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

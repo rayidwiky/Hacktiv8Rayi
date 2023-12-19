@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5A745DAEA6700968ABC85107E97C22DC",
+  "keywordClasses": [
+    {
+      "name": "customKW.randomNumber",
+      "keywordMethods": [
+        {
+          "name": "randomNumber5",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
